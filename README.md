@@ -20,10 +20,10 @@ This app is to be created for a client/company that is considering our project o
 
 1. Write down 15 Questions to ask our client about the assignment
 2. Meet with the group and identify the following:
-  ⋅⋅* 1. What are the functional requirements?
-      2. What are the non-functional requirements?
-      3. What is the scopre of the project?
-      4. What are our group members roles?
+  ⋅⋅1. What are the functional requirements?
+  ⋅⋅2. What are the non-functional requirements?
+  ⋅⋅3. What is the scopre of the project?
+  ⋅⋅4. What are our group members roles?
   
 3. Write out a problem and solution statement 
 
